@@ -1,0 +1,18 @@
+p {
+    background-color: rgb(235, 183, 191);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.adjustFontSizeSame {
+    font-size: 24px;
+}
+
+#secondElement {
+    color: blue;
+    font-size: 36px;
+}
+
+#fourthElement {
+    background-color: rgb(91, 172, 91);
+    font-weight: bold;
+}
